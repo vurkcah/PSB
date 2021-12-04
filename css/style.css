@@ -156,6 +156,15 @@ section {
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
+.home4 .image {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 42rem;
+          flex: 1 1 42rem;
+}
+.home4 .image img {
+  width: 100%;
+}
+
 
 .home .image img {
   width: 100%;
@@ -259,6 +268,8 @@ section {
   padding: 3rem 2rem;
 }
 
+
+
 .course-1 .box img {
   margin-bottom: 1rem;
   height: 8rem;
@@ -289,6 +300,11 @@ section {
   padding: 2rem;
   border-radius: 1rem;
   background: #f5f5f5;
+}
+.course-7 .box1 {
+  padding: 2rem;
+  border-radius: 1rem;
+  background: #ffff;
 }
 
 .course-2 .box .image {
@@ -362,6 +378,8 @@ section {
   text-align: center;
   overflow: hidden;
 }
+
+
 
 .course-3 .box:hover .video video {
   -webkit-transform: scale(1.1);
